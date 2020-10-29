@@ -1,0 +1,16 @@
+
+.imageClass{
+    height: 200px;
+    widows: 200px;
+}
+.vertical-align{
+    display: flex;
+    align-items: center;
+}
+button.btn{
+    width: 70px;
+    margin-right: 5px;
+}
+.pointerCursor{
+    cursor: pointer;
+}

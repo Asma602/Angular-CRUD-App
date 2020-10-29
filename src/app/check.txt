@@ -1,0 +1,19 @@
+public class mainactivity extends AppCompatActivity implements View.OnClickListener{
+	
+	//oncreate
+	btnClick.setOnClickListener(this);
+
+
+	@override
+	public void onClick(View v){
+		// code here
+	}
+}
+
+
+btn.setOnClickListener(new View.OnClickListener(){
+	@override
+	public void onClick(View v){
+	//code here
+	}
+})

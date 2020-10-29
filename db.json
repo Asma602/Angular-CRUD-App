@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Faizan",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "usman@gmail.com",
+      "dateOfBirth": "3/2/1996",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/dm-img_1.png"
+    },
+    {
+      "id": 2,
+      "name": "Suleman",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "email": "adnan@gmail.com",
+      "dateOfBirth": "10/31/1999",
+      " department": "1",
+      "isActive": false,
+      "photoPath": "assets/images/dm_img_2.png"
+    },
+    {
+      "id": 3,
+      "name": "Ayesha",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": "03115344701",
+      "dateOfBirth": "9/5/1997",
+      "department": "2",
+      " isActive": true,
+      "photoPath": "assets/images/dm_img_3.png"
+    }
+  ]
+}
